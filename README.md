@@ -1,1 +1,0 @@
-# membresias-backend
